@@ -20,7 +20,7 @@ while True:
 
     vel[0] = clamp(vel[0],-maxspeed,maxspeed)
     vel[1] = clamp(vel[1],-maxspeed,maxspeed)
-
+# tyeestgrdhj
     pos = pyautogui.position()
 
     if pos.x >= width-10 or pos.x == 0:
