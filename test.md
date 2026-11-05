@@ -1,4 +1,4 @@
-# THIS IS MY FILE, and no one elses!
+# THIS IS MY FILE, But cooler!
 
 There will be text soon!
 
